@@ -1,4 +1,5 @@
 # ThinkGov2019
+## Hands-on introduction to Machine Learning using Watson Studio
 
 ## Description:
 
