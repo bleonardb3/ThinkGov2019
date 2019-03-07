@@ -1,4 +1,4 @@
-# Lab-2 - Watson Machine Learning - Continuous Learning
+# Lab-3 - Watson Machine Learning - Continuous Learning
 
 ## Introduction:
 
