@@ -75,3 +75,8 @@ Upon completing the lab, you will know how to:
 > <img src="https://github.com/bleonardb3/ML-POT/blob/master/Lab-1/images/See%20ML%20in%20Associated%20Services..png"/>
 
 ### Step 16. Repeat steps 10-15 to create a Spark service. 
+
+### Step 17. The Associated Services should appear as below. 
+
+> <img src="https://github.com/bleonardb3/ThinkGov2019/blob/master/Lab-1/images/https://github.com/bleonardb3/ThinkGov2019/blob/master/Lab-1/images/AssociatedServices.png"/>
+
