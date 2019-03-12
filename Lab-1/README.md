@@ -78,5 +78,5 @@ Upon completing the lab, you will know how to:
 
 ### Step 17. The Associated Services should appear as below. 
 
-> <img src="https://github.com/bleonardb3/ThinkGov2019/blob/master/Lab-1/images/https://github.com/bleonardb3/ThinkGov2019/blob/master/Lab-1/images/AssociatedServices.png"/>
+> <img src="https://github.com/bleonardb3/ThinkGov2019/blob/master/Lab-1/images/AssociatedServices.png"/>
 
